@@ -43,7 +43,7 @@ Malgré un potentiel certain, l’exploitation des réseaux sociaux au sein des 
 
 ___
 
-<sup>1</sup> SNA pour Social Network Analysis
-<sup>2</sup> Application Programming Interface
-<sup>3</sup> Etude et théorie des réseaux
-<sup>4</sup> Commission nationale de l’informatique et des libertés
+<sup>1</sup> SNA pour Social Network Analysis  
+<sup>2</sup> Application Programming Interface  
+<sup>3</sup> Etude et théorie des réseaux  
+<sup>4</sup> Commission nationale de l’informatique et des libertés  
