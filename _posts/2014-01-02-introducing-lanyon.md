@@ -27,8 +27,12 @@ L’accès aux données et aux services de Facebook se fait au travers d’une A
 
 Le numéro deux de l’assurance auto aux Etats-Unis (GEICO) impose ainsi l’inscription à son site via Facebook, ce qui lui permet de collecter des données sur l’ensemble de ses clients. Cette approche suppose néanmoins une totale dépendance vis à vis de Facebook qui est le seul à décider des modalités d’usages et des données disponibles via son API. Des dizaines de startups en ont fait l’amère expérience l’année dernière lorsque Facebook a décidé de ne plus rendre disponible la liste d’amis des comptes publics. Les nouvelles règles de l’API ne permettent plus de récupérer l’ensemble des amis d’un assuré, mais seulement ceux utilisant également l’application.
 
-![](http://darky-ben.fr/siafraudill.jpg)
-_Données collectables ou non sur Facebook en 2016_
+<p align="center">
+  <img src="http://darky-ben.fr/siafraudill.jpg" alt="Données collectables ou non sur Facebook en 2016"/>
+  <span align="right"><i>Données collectables ou non sur Facebook en 2016</i></span>
+</p>
+![]()
+
 
 ### Les données de Facebook, terreau fertile pour la diktyologie<sup>3</sup>.
 
