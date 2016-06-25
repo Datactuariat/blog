@@ -27,6 +27,8 @@ L’accès aux données et aux services de Facebook se fait au travers d’une A
 
 Le numéro deux de l’assurance auto aux Etats-Unis (GEICO) impose ainsi l’inscription à son site via Facebook, ce qui lui permet de collecter des données sur l’ensemble de ses clients. Cette approche suppose néanmoins une totale dépendance vis à vis de Facebook qui est le seul à décider des modalités d’usages et des données disponibles via son API. Des dizaines de startups en ont fait l’amère expérience l’année dernière lorsque Facebook a décidé de ne plus rendre disponible la liste d’amis des comptes publics. Les nouvelles règles de l’API ne permettent plus de récupérer l’ensemble des amis d’un assuré, mais seulement ceux utilisant également l’application.
 
+![](http://darky-ben.fr/siafraudill.jpg)
+
 ### Les données de Facebook, terreau fertile pour la diktyologie<sup>3</sup>.
 
 Les données Facebook sur les utilisateurs présentent une réelle pertinence dans le cadre de la lutte contre la fraude. L’analyse automatique du contenu publié par un client (en arrêt maladie mais postant des photos de vacances à la plage) reste à ce jour au stade expérimental et requiert l’utilisation d’outils d’analyse spécifiques (text mining / analyse d’image). Mais d’autres données comme le réseau d’amis peuvent d’ores et déjà faire l’objet d’une exploitation industrielle.
