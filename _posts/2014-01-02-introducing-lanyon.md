@@ -15,9 +15,11 @@ Si les GAFA (Google, Amazon, Facebook, Apple) connaissent suffisamment leurs uti
 
 Dès lors que l’on s’intéresse aux données personnelles, Facebook s’impose comme une source d’informations incontournable. Les données publiques de ses utilisateurs sont d’ailleurs déjà utilisées par les assureurs d’autres pays pour prouver certains cas de fraude : 
 
-> * « Elle publie une photo de profil avec sa bague prétendument volée » ;
-> * « Déclaré non-fumeur, il fume sur ses photos Facebook » ;
-> * « Il est filmé en train de mettre en scène l’accident de sa Ferrari ».
+> « Elle publie une photo de profil avec sa bague prétendument volée » 
+
+> « Déclaré non-fumeur, il fume sur ses photos Facebook »  
+
+> « Il est filmé en train de mettre en scène l’accident de sa Ferrari »  
 
 Au-delà de l’analyse de contenu publié par un assuré, les données concernant le réseau d’amis peuvent s’avérer précieuses dans la fraude en RC AUTO. En effet, l’analyse des liens entre les individus impliqués dans un accident permet de savoir si ces derniers se connaissent. Un degré de proximité élevé implique un fort risque de fraude à la déclaration, les assurés s’étant potentiellement mis d’accord pour modifier le contexte ou les conséquences de l’accident.
 
