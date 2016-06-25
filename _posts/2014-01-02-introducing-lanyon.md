@@ -31,7 +31,6 @@ Le numéro deux de l’assurance auto aux Etats-Unis (GEICO) impose ainsi l’in
   <img src="http://darky-ben.fr/siafraudill.jpg" alt="Données collectables ou non sur Facebook en 2016"/>
   <span align="right"><i>Données collectables ou non sur Facebook en 2016</i></span>
 </p>
-![]()
 
 
 ### Les données de Facebook, terreau fertile pour la diktyologie<sup>3</sup>.
