@@ -26,4 +26,4 @@ $$
 
 La prime pure permet ainsi une modélisation distincte de la fréquence des sinistres et de leur coûts. Il est effectivement intuitif ne ne pas considérer que les facteurs explicatifs de ces deux quantités ne soient pas les mêmes. De plus, comme présenté dans la vie d'un sinistre, l'assureur connaît plus facilement la fréquence des sinistres (la donnée est disponible dès la déclaration) que son coût (connu au terme du développement final du sinistre)
 
-[^1] La tarification __a posteriori__ ne sera pas développée dans ce mémoire
+[^1]: La tarification __a posteriori__ ne sera pas développée dans ce mémoire
