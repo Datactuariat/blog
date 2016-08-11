@@ -11,7 +11,8 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 http://datactuariat.github.io/
 baseurl:             http://datactuariat.github.io/
 paginate:            5
-markdown: kramdown
+markdown:            kramdown
+    extensions: ["footnotes"]
 
 # About/contact
 author:
