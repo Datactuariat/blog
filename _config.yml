@@ -12,7 +12,6 @@ url:                 http://datactuariat.github.io/
 baseurl:             http://datactuariat.github.io/
 paginate:            5
 markdown:            kramdown
-    extensions: ["footnotes"]
 
 # About/contact
 author:
