@@ -1,9 +1,10 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Implémentations des données et conception du modèle
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+## Moélisation de la prime pure
 
 La tarification en assurance non-vie consiste à concevoir une prime payée par l'assuré à l'assureur en échange d'un transfert du risque. La prime dépendant du risque, cela consiste ainsi à segmenter les différents contrats en sous-portefeuilles de risques homogènes. Ces classes et la tarification sont dites __a priori__ si elles sont constituées à partir d'information sur l'assuré ou le bien assuré disponibles __a priori__ [^1]. L'approche usuelle s'intéresse à la *prime pure*\footnote{La prime pure n'est pas la prime opréationnellement payée par l'assuré. Un chargement commercial qui dépasse les enjeux de ce mémoire est effectivement ajouté à la prime pure} comme produit de l'espérance du nombre de sinistres et de leur coût moyen. La prime pure majorée d'un chargement commerciale (dont la constitution dépassent le cadre de ce mémoire) constituera alors la prime finale payé par l'assuré. \\
 
