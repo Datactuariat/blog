@@ -12,6 +12,7 @@ url:                 http://datactuariat.github.io/
 baseurl:             http://datactuariat.github.io/
 paginate:            5
 markdown:            kramdown
+gem 'jekyll-admin', group: :jekyll_plugins
 
 # About/contact
 author:
